@@ -1,3 +1,4 @@
+#!-*-coding:utf-8-*-
 import glob
 
 def get_2list_intersection(l1, l2):
